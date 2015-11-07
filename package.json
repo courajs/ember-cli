@@ -108,6 +108,7 @@
     "fs-monitor-stack": "^1.0.2",
     "git-repo-info": "^1.0.4",
     "glob": "5.0.13",
+    "handlebars": "^4.0.2",
     "http-proxy": "^1.9.0",
     "inflection": "^1.7.0",
     "inquirer": "0.5.1",
